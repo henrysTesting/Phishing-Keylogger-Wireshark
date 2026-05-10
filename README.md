@@ -1,6 +1,6 @@
 # Phishing & Keylogger Demo: An End-to-End Social Engineering Attack
 
-A solo project that walks through a full phishing attack against a fictional persona: profile-building from public information, a spoofed email impersonating a family member, a malware-laced attachment disguised as cat photos, and analysis of the resulting network traffic in Wireshark. Built for INST364 (Human-Centered Cybersecurity) at the University of Maryland.
+A solo project that walks through a full phishing attack against a fictional persona: profile-building from public information, a spoofed email impersonating a family member, a malware-laced attachment disguised as cat photos, and analysis of the resulting network traffic in Wireshark. 
 
 ## Disclaimer
 
