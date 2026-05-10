@@ -1,7 +1,7 @@
 # Phishing and Malware: Project Submission
 
 **University of Maryland: INST364 (Human-Centered Cybersecurity)**
-**Author:** Henry Pham Nguyen
+**Author:** Henry Nguyen
 
 > Solo project. Demonstrates an end-to-end phishing attack against a fictional persona using an SMTP-based keylogger disguised as cute cat photos, with Wireshark analysis of the resulting network traffic.
 
