@@ -114,10 +114,10 @@ This project shows that I can think on **both sides of that exchange**: how an a
 
 ## Limitations and Honest Notes
 
-- **Sandboxed environment.** Everything was run on a course-provided VM. The attack would behave the same way against a real machine, but actually targeting one would be illegal and unethical.
+- **Sandboxed environment.** The attack would behave the same way against a real machine, but actually targeting one would be illegal and unethical.
 - **Existing keylogger source.** I did not write the keylogger. I integrated and operated an existing open-source tool ([rajusiripalli/Remote_keylogger](https://github.com/rajusiripalli/Remote_keylogger)) inside the broader attack scenario I designed. The contribution is the scenario, the analysis, and the writeup.
 - **Single demo run.** The numbers (195+ inbox batches) reflect the demo session captured on video. Different exfiltration intervals, durations, or typing speeds would yield different counts.
 
 ---
 
-*Author: Henry Pham Nguyen.*
+*Author: Henry Nguyen.*
